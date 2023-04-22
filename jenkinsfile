@@ -67,7 +67,7 @@ pipeline {
 							echo "Error detected, ${env.STAGE_NAME} failed..................!"
 						}
 				}							
-        https://github.com/harishpallapu/Jenkins-oci    }
+    }
 	 }
      stage("deploy") {
          steps {
