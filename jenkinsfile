@@ -189,7 +189,7 @@ pipeline {
         
 		Please find build reports................................!
 		
-		Nexus Credentials-(username:admin,password:flexib@3i)
+		Nexus Credentials-(username:admin,password:flexib)
 		
 		SAST REPORTS
 		http://10.251.16.110:8081/repository/Flexibplus-Demo-Reports/sast-reports/report-task.txt
